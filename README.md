@@ -25,3 +25,11 @@ Optimizing the Horiseon website code for structure, readability, and accessibili
 ![Website looks the same as before, 3 rows and a column on the right](./assets/images/Horiseon-Website-2.png)
 
 ![Website looks the same as before, simple footer on a grey background](./assets/images/Horiseon-Website-3.png)
+
+---
+
+## 🏆 Support
+
+*Brian Chase
+
+*Jake McMillan
